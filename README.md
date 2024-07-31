@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leah Carr, a full stack developer in Brisbane
-- 👀 I’m interested in Node, PHP and React
+- 👀 I’m interested in PHP, Nodejs and Python
 - 📫 How to reach me? Email: leah.carr00@gmail.com
 
 <!---
